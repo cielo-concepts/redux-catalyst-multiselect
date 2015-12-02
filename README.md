@@ -1,0 +1,1 @@
+# redux-catalyst-multiselect
