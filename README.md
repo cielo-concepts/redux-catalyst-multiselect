@@ -16,3 +16,5 @@ Pass in props of availableOptions to populate the 'from' (available options) sid
 * Implement initiallyPicked list functionality
 * ARIA support
 
+Credits: using some initial multi-select code from https://github.com/scottshid
+
